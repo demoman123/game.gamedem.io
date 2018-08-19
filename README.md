@@ -1,3 +1,3 @@
-# game.gamedem.io
+# Baldi
 DEMO
 #Baldi demo full game
